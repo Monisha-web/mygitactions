@@ -1,4 +1,4 @@
-on: push
+runs-on
 jobs:
   test:
     steps:
